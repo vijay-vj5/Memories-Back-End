@@ -12,7 +12,7 @@ With Memories, you can stay connected with your loved ones and share your life's
 
 To get started with the Project, you'll need to follow these steps:
 
-- Clone this repository to your local machine. using git clone https://github.com/vijay-vj5/BackendCapstoneProjekt.git
+- Clone this repository to your local machine. using https://github.com/vijay-vj5/Memories-Back-End.git
 
 - First install npm dependencies of express and mongoose using following command.
 
